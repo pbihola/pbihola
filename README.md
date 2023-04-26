@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a web developer who loves JavaScript and react!
+I am a web developer who loves JavaScript and react! Working on independent projects.
 
 * 🌍  I'm based in Waterloo, ON
 * ✉️  You can contact me at [purvarajbihola3108@gmail.com](mailto:purvarajbihola3108@gmail.com)
