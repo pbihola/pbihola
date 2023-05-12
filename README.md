@@ -28,6 +28,11 @@ I am a web developer who loves JavaScript and react! Working on independent proj
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
+### Hobbies
+
+* ✍️ Writting
+* 📖 Book reading
+
 
 ### Socials
 
