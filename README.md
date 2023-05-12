@@ -13,7 +13,7 @@ I am a web developer who loves JavaScript and react! Working on independent proj
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am a Spider man, Tell everyone!!
 
-* MY PROJECTS!!💻🧑‍💻
+### MY PROJECTS!!💻🧑‍💻
 
 ### Skills
 
