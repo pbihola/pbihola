@@ -15,6 +15,7 @@ I am a web developer who loves JavaScript and react! Working on independent proj
 * ⚡  I am a Spider man, Tell everyone!!
 
 ### MY PROJECTS!!💻🧑‍💻
+Wait for my next project!!
 
 ### Skills
 
