@@ -34,6 +34,7 @@ Wait for my next project!!
 
 * ✍️ Writting
 * 📖 Book reading
+* ✈️ Travel
 
 
 ### Socials
