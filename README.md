@@ -6,7 +6,7 @@ Web Developer | Student | Conestoga College
 
 I am a web developer who loves JavaScript and react! Working on independent projects.
 
-* 🌍  I'm based in Waterloo, ON
+* 🌍  I'm based in Waterloo, ON, Canada.
 * ✉️  You can contact me at [purvarajbihola3108@gmail.com](mailto:purvarajbihola3108@gmail.com)
 * 🧠  I'm learning React
 * 💻  Learning UI UX concepts.
