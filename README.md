@@ -41,7 +41,7 @@ Wait for my next project!!
 ### Socials
 
 
-<p align="left"> <a href="www.linkedin.com/in/purvaraj-bihola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p> 
+<p align="left"> <a href="www.linkedin.com/in/purvaraj-bihola" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg](https://content.linkedin.com/content/dam/brand/site/img/logo/do/do-trademark-legible.png)" width="32" height="32" /></a></p> 
 
 <p align="left"> <a href="https://www.github.com/pbihola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
