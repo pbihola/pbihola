@@ -13,6 +13,7 @@ I am a web developer who loves JavaScript and react! Working on independent proj
 * 📚  Writting books and blogs in free time.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am a Spider man, Tell everyone!!
+* 💻  Currently learning Java!!
 
 ### MY PROJECTS!!💻🧑‍💻
 Wait for my next project!!
