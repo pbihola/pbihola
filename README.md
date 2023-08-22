@@ -40,8 +40,8 @@ Wait for my next project!!
 
 ### Socials
 
-![LinkedinGIF](https://github.com/pbihola/pbihola/assets/113728343/7bf064ba-70ff-4198-b654-cad6f05b0e43)
-: www.linkedin.com/in/purvaraj-bihola
+
+<p align="left"> <a href="www.linkedin.com/in/purvaraj-bihola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p> 
 
 <p align="left"> <a href="https://www.github.com/pbihola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
