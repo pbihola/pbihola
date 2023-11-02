@@ -8,7 +8,7 @@ I am a web developer who loves JavaScript and react! Working on independent proj
 
 * 🌍  I'm based in Waterloo, ON, Canada.
 * ✉️  You can contact me at [purvarajbihola3108@gmail.com](mailto:purvarajbihola3108@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React.
 * 💻  Learning UI UX concepts.
 * 📚  Writting books and blogs in free time.
 * 🤝  I'm open to collaborating on Projects
